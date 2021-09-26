@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'talalapp1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F731E35E2A7147809E9C55ED1657F4BE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0FFA9A7555854D82A39C9AC659F325B6 }}
           package: .
